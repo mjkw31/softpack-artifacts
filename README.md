@@ -1,2 +1,2 @@
-# softpack-artifacts-dev
-SoftPack Artifacts (Dev)
+# softpack-artifacts
+SoftPack Artifacts
