@@ -1,5 +1,6 @@
 description: |
   Adds ASMC and FastSMC v1.3 to PATH
+  Extra Stuff
 packages:
   - asmc@1.3
   - fastmc@1.3

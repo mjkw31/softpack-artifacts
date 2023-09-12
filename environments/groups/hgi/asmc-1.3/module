@@ -2,6 +2,7 @@
 
 proc ModulesHelp { } {
    puts stderr "Adds ASMC and FastSMC v1.3 to PATH"
+   puts stderr "Extra Stuff"
 }
 
 module-whatis "ASMC and FastSMC version 1.3"
