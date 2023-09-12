@@ -1,0 +1,5 @@
+description: |
+  Adds ASMC and FastSMC v1.3 to PATH
+packages:
+  - asmc@1.3
+  - fastmc@1.3

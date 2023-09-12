@@ -1,0 +1,13 @@
+#%Module
+
+proc ModulesHelp { } {
+   puts stderr "Adds ASMC and FastSMC v1.3 to PATH"
+}
+
+module-whatis "ASMC and FastSMC version 1.3"
+module-whatis "Name: asmc"
+module-whatis "Version: 1.3"
+module-whatis "Packages: fastmc@1.3"
+
+prepend-path PATH "/software/hgi/installs/asmc-v1.3"
+prepend-path LD_LIBRARY_PATH "/software/gcc-12.2/lib64"
