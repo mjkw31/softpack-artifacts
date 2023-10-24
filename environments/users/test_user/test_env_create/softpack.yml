@@ -1,0 +1,3 @@
+description: test env
+packages:
+  - zlib@v1.1
