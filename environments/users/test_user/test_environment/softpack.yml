@@ -1,5 +1,0 @@
-description: "desc"
-packages:
-  - pck1@1
-  - pck2@v2.0.1
-  - pck3
