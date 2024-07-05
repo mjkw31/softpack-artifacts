@@ -1,4 +1,0 @@
-description: description2
-packages:
-- pkg_test2
-- pkg_test3@3.1
